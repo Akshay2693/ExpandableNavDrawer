@@ -1,8 +1,32 @@
 # ExpandableNavDrawer
 
-Material Navigation Drawer with expandable listview like most of e-commerce mobile app.
+Material Navigation Drawer with expandable listview.
 
-<img src="screen/Screenshot_20160417-151609.png" align="left" height="800" width="480" >
+Can use this format for e-commerce mobile app for categories and subcategories.
+
+<img src="screen/Screenshot_20160417-151609.png" align="center" height="800" width="480" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -11,7 +35,7 @@ LICENSE:
 ```
 The MIT License (MIT)
 
-Copyright (c) 2015 vivekgidmare
+Copyright (c) 2016 vivekgidmare
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
