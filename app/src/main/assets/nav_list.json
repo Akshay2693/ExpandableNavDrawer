@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Footwear",
+    "subcategories": ["Shoes", "Sandals","Flipflops", "Loafers","Boots"]
+  },
+  {
+    "name": "Topwear",
+    "subcategories": ["Jackets","Shirts","Blazers"]
+  },
+  {
+    "name": "Bottomwear",
+    "subcategories": ["Jeans","Shorts", "Trousers"]
+  }
+]
